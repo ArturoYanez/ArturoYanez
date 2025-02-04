@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🛡️ Arturo Yánez | Security Through Constraints  
+**Building enterprise-grade security tools from a $200 Android device**  
 
-<!--
-**ArturoYanez/ArturoYanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://termux.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 
-Here are some ideas to get you started:
+## 🔥 Proyectos Destacados  
+| Proyecto | Tecnologías | Impacto |  
+|----------|-------------|---------|  
+| [Mobile Network Scanner](enlace) | Python, Scapy | Detección de vulnerabilidades en redes WiFi |  
+| [Termux Automation Suite](enlace) | Bash, Python | Reducción del 70% en tiempo de configuración |  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Unique Value Proposition  
+> "Demostrando que la potencia técnica no depende del hardware - 100% desarrollado en smartphone"  
