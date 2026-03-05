@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/KRYO_VOID_Banner.png" alt="Kry0 Void Banner" width="100%">
+  <img src="assets/KRY0_VOID_Banner.png" alt="Kry0 Void Banner" width="100%">
 </p>
 
 <div align="center">
