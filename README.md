@@ -113,7 +113,7 @@
   <a href="https://www.tiktok.com/@kry0void">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/mobile_code_warrior">
+  <a href="https://www.instagram.com/kry0void/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
